@@ -23,9 +23,9 @@ export default function Contact() {
           Address: 18/5 AhmedNagar, Mirpur #1, Dhaka
           <br />
           <br />
-          Phone: +8801648885657, +8801965830984 <br />
+          Phone: +8801763180249, +8801965830984 <br />
           <br />
-          Mail Address: bdTour_1971@gmail.com
+          Mail Address: kabir.webdev@gmail.com
         </b>
         <br />
         <br />
