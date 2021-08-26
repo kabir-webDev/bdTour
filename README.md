@@ -4,8 +4,9 @@ This is a Tour and Travel based website which we named bdTour where a user can s
 ## Functionalities
 ------------
 - Complete web application with a dynamic service section.
-- User Can choose between multiple tour packages
+- User Can choose between multiple tour packages.
 - An user can filter based on budget, number of person, and the type of place he/she would like to go. 
+- After selecting a particular package user can contact with the agency guys.
   
 ## Technologies Used
 ------------
