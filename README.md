@@ -1,5 +1,5 @@
 # BD-TOUR Website: 
-This is a Tour and Travel based website which we named bdTour where a user can see any tour plan and filter out according to their need. Customers can see what is offered for a particular tour plan and according to his/her budget which type of tour he/she will get.
+This is a Tour and Travel based website which is named bdTour where a user can see any tour plan and filter out according to their need. Customers can see what is offered for a particular tour plan and according to his/her budget which type of tour he/she will get.
 
 ## Functionalities
 ------------
